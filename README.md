@@ -1,4 +1,4 @@
-## Software development student
+## Software development student. Currently studying web development at Trybe.
 <div align="center">
   <a href="https://github.com/lucasdvilar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdvilar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
