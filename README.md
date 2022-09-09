@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Back-end developer looking to solve problems through technology. I'm currently studying in Trybe's XP class.</h3>
+<h3 align="center">Back-end developer looking to solve problems through technology. I'm currently studying Web Development at Trybe.</h3>
 
 - 🌱 I’m currently learning **CI/CD**
 
