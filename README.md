@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Software developer looking to solve problems through technology. I'm currently studying Web Development at Trybe and System Analysis and Development at XP Education College.</h3>
+<h3 align="center">Software developer looking to solve problems through technology. I'm currently studying System Analysis and Development at XP Education College.</h3>
 
 - 🌱 I’m currently learning **Data Structures**
 
